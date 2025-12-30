@@ -1,0 +1,134 @@
+[2025-04-15 14:06:51,649 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:06:57,437 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 14:06:58,032 INFO] Load 364464128 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 14:06:59,664 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 14:07:23,542 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:07:28,971 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 14:07:29,589 INFO] Load 364464128 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 14:07:31,263 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 14:16:13,331 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:16:19,008 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 14:16:19,600 INFO] Load 364464128 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 14:16:21,245 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 14:18:11,496 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:18:16,782 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 14:18:17,366 INFO] Load 364464128 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 14:18:18,960 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 14:19:08,886 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:19:14,332 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 14:19:14,935 INFO] Load 364464128 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 14:19:16,548 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 14:21:21,281 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:21:52,200 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:24:09,277 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:28:21,832 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:29:54,226 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:31:15,092 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:33:31,537 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:35:19,233 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:55:52,476 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:57:30,566 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:59:31,887 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 14:59:37,281 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 14:59:37,856 INFO] Load 364464128 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 14:59:39,455 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 15:44:33,444 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 15:44:38,928 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 15:44:39,528 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 15:44:41,090 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 15:45:09,118 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 15:45:14,502 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 15:45:15,085 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 15:45:16,589 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 15:48:01,082 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 15:48:06,556 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 15:48:07,135 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 15:48:08,656 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 15:50:26,070 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 15:50:31,392 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 15:50:31,985 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 15:50:33,524 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 15:52:00,277 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 15:52:05,650 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 15:52:06,238 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 15:52:07,757 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 15:54:27,048 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 15:54:33,992 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 15:54:34,574 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 15:54:36,085 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 15:55:28,806 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 15:55:34,317 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 15:55:34,913 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 15:55:36,467 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 15:55:54,290 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 15:55:59,808 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 15:56:00,397 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 15:56:01,948 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 15:58:42,684 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 15:58:48,109 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 15:58:48,757 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 15:58:50,299 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-15 16:00:34,867 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-15 16:00:40,295 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-15 16:00:40,888 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-15 16:00:42,428 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 06:51:31,707 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 06:51:37,101 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 06:51:37,697 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 06:51:39,050 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 06:59:16,755 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 06:59:22,242 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 06:59:22,840 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 06:59:24,215 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 07:11:51,990 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 07:11:57,483 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 07:11:58,090 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 07:11:59,479 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 07:15:00,196 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 07:15:05,624 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 07:15:06,234 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 07:15:07,580 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 09:08:01,090 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 09:08:06,507 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 09:08:07,088 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 09:08:08,424 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 09:08:46,162 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 09:08:51,751 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 09:08:52,347 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 09:08:53,727 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 09:10:18,630 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 09:10:24,058 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 09:10:24,646 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 09:10:26,007 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 09:11:25,944 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 09:11:31,310 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 09:11:31,894 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 09:11:33,235 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 09:13:55,591 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 09:14:01,002 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 09:14:01,582 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 09:14:02,904 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 09:15:24,374 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 09:15:29,733 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 09:15:30,322 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 09:15:31,673 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 09:17:23,270 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 09:17:28,692 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 09:17:29,270 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 09:17:30,613 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 09:19:29,189 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 09:19:34,736 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 09:19:35,345 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 09:19:36,725 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 09:20:06,336 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 09:20:11,695 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 09:20:12,280 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 09:20:13,616 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 09:24:31,877 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 09:24:37,290 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 09:24:37,873 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 09:24:39,257 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
+[2025-04-30 09:28:08,365 INFO] We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-30 09:28:13,715 INFO] pool_type=avg, prefix_type=query_or_passage, prompt=None
+[2025-04-30 09:28:14,327 INFO] Load 355922 embeddings from /home/stv10121/ethics/src/search/data/index/e5_large_index.pkl
+[2025-04-30 09:28:15,655 INFO] loaded 355922 passages from /home/stv10121/ethics/src/search/data/rot-corpus.jsonl
