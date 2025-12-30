@@ -22,6 +22,7 @@ The project currently supports experimentation with:
     ├── gpt4.py             # OpenAI API wrapper
     ├── vllm_client.py      # vLLM client implementation
     └── ...
+```
 
 ## 1. Start VLLM Server (Optional)
 If you plan to use open-source LLMs hosted locally, start the vLLM server first:
@@ -55,8 +56,10 @@ Evaluate the generated responses against gold labels or using model-based evalua
 # Evaluate retrieval performance
 python3 -m src.normad.dense_retrieval_eval \
     --retriever e5_large
+```
 
 # Evaluate RAG generation quality
+```
 python3 -m src.normad.rag_eval \
     --input_dir your_input_dir \
     --output_dir your_output_dir
