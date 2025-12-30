@@ -595,12 +595,11 @@ class LLMEmbedderSearcher:
             self,
             dataset_name: str,
             index_version: str='v0',
-            shot: str='3shot',
             device: str=None
     ):
         # load corpus
         if (dataset_name == "normad") or (dataset_name == "scruples"):
-            self.corpus = load_json_file(f"data/{dataset_name}/{shot}/norms.json")
+            self.corpus = load_json_file(f"data/{dataset_name}/norms.json")
         elif dataset_name == "normad_region":
             self.corpus = load_json_file(f"data/normad/{dataset_name}_norms.json")
         else:
@@ -608,9 +607,9 @@ class LLMEmbedderSearcher:
 
         # load embeddings
         if (dataset_name == "normad") or (dataset_name == "scruples"):
-            embedding_path = f"index/{dataset_name}/dense/{shot}/llm_embedder_{dataset_name}_{index_version}.pkl"
+            embedding_path = f"index/{dataset_name}/llm_embedder_{dataset_name}_{index_version}.pkl"
         elif dataset_name == "normad_region":
-            embedding_path = f"index/{dataset_name}/dense/llm_embedder_{dataset_name}.pkl"
+            embedding_path = f"index/{dataset_name}/llm_embedder_{dataset_name}.pkl"
         
         with open(embedding_path, "rb") as f:
             all_ids, all_embeddings = pickle.load(f)
@@ -722,7 +721,6 @@ class MiniLML6Searcher:
             self,
             dataset_name: str,
             index_version: str='v0',
-            shot: str='3shot',
             device: str=None
     ):
         # set device first
@@ -730,7 +728,7 @@ class MiniLML6Searcher:
 
         # load corpus
         if (dataset_name == "normad") or (dataset_name == "scruples"):
-            self.corpus = load_json_file(f"data/{dataset_name}/{shot}/norms.json")
+            self.corpus = load_json_file(f"data/{dataset_name}/norms.json")
         elif dataset_name == "normad_region":
             self.corpus = load_json_file(f"data/normad/{dataset_name}_norms.json")
         else:
@@ -738,9 +736,9 @@ class MiniLML6Searcher:
 
         # load embeddings
         if (dataset_name == "normad") or (dataset_name == "scruples"):
-            embedding_path = f"index/{dataset_name}/dense/{shot}/miniLM_L6_{dataset_name}_{index_version}.pkl"
+            embedding_path = f"index/{dataset_name}/miniLM_L6_{dataset_name}_{index_version}.pkl"
         elif dataset_name == "normad_region":
-            embedding_path = f"index/{dataset_name}/dense/miniLM_L6_{dataset_name}.pkl"
+            embedding_path = f"index/{dataset_name}/miniLM_L6_{dataset_name}.pkl"
 
         with open(embedding_path, "rb") as f:
             all_ids, all_embeddings = pickle.load(f)
@@ -843,7 +841,6 @@ class MiniLML12Searcher:
             self,
             dataset_name: str,
             index_version: str='v0',
-            shot: str='3shot',
             device: str=None
     ):
         # set device first
@@ -851,7 +848,7 @@ class MiniLML12Searcher:
 
         # load corpus
         if (dataset_name == "normad") or (dataset_name == "scruples"):
-            self.corpus = load_json_file(f"data/{dataset_name}/{shot}/norms.json")
+            self.corpus = load_json_file(f"data/{dataset_name}/norms.json")
         elif dataset_name == "normad_region":
             self.corpus = load_json_file(f"data/normad/{dataset_name}_norms.json")
         else:
@@ -859,9 +856,9 @@ class MiniLML12Searcher:
 
         # load embeddings
         if (dataset_name == "normad") or (dataset_name == "scruples"):
-            embedding_path = f"index/{dataset_name}/dense/{shot}/miniLM_L12_{dataset_name}_{index_version}.pkl"
+            embedding_path = f"index/{dataset_name}/miniLM_L12_{dataset_name}_{index_version}.pkl"
         elif dataset_name == "normad_region":
-            embedding_path = f"index/{dataset_name}/dense/miniLM_L12_{dataset_name}.pkl"
+            embedding_path = f"index/{dataset_name}/miniLM_L12_{dataset_name}.pkl"
 
         with open(embedding_path, "rb") as f:
             all_ids, all_embeddings = pickle.load(f)
